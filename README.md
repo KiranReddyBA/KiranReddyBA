@@ -1,39 +1,42 @@
-# Hi, I'm Kiran Kumar Reddy 👋
+<div align="center">
 
-**Senior Business Analyst** with 6+ years of experience delivering enterprise technology solutions across **Banking, Healthcare, and Insurance** domains. I specialize in bridging business vision and technical execution through Agile methodologies, SQL analytics, process mapping, and data governance.
+  <!-- Animated Typing Banner -->
+  <a href="https://github.com/KiranReddyBA">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Kiran+Kumar+Reddy;Senior+Business+Analyst;SQL+%26+Enterprise+Data+Analytics;Agile%2FScrum+%26+BRD%2FFRD+Engineering;Azure+Synapse+%26+Process+Optimization" alt="Animated Title" />
+  </a>
 
----
+  <br />
 
-### 📌 Core Technical & Analytical Stack
-* **Business & Systems Analysis:** BRD/FRD Authoring, RTM, User Stories, Acceptance Criteria, GAP Analysis, Workflow Modeling (Visio)
-* **Data & Analytics:** SQL, Azure Synapse Analytics, Power BI, Advanced Excel, KPI Dashboards
-* **Agile & Delivery Tools:** Jira, Confluence, Azure DevOps, UAT Execution
-* **Domain Focus:** Enterprise Banking (JP Morgan), Healthcare (CVS Health), P&C Insurance
+  <!-- Animated Dynamic Waves Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00D4FF&height=120&section=header" width="100%" />
 
----
+  <br />
 
-### 📂 Highlighted Portfolio Repositories
+  <!-- High-Impact Bio Tagline -->
+  <h3>📊 Strategic Business Analyst | Bridging Complex Business Needs & Enterprise Data Solutions 🚀</h3>
 
-#### 1. 🏥 [P&C Insurance Claims Process Optimization](https://github.com/KiranReddyBA/pc-insurance-claims-optimization)
-> Streamlined the end-to-end claims lifecycle (FNOL to Closure), creating As-Is/To-Be workflows and SQL validation scripts.
-* **Artifacts Included:** BRD/FRD templates, Visio process maps, sample SQL test queries, UAT test suites.
+  <p>
+    <b>Piscataway, NJ</b> • 
+    <a href="mailto:kiranbeeravelly07@gmail.com">Email Me</a> • 
+    <a href="https://www.linkedin.com/in/kiran-kumar-reddy-b78774211">LinkedIn Profile</a>
+  </p>
 
-#### 2. 📊 [SQL & Enterprise Data Analytics](https://github.com/KiranReddyBA/sql-enterprise-data-analytics)
-> SQL scripts and data validation frameworks executed in Azure Synapse Analytics to evaluate business datasets and KPI metrics.
-
-#### 3. 🤖 [CrewAI Multi-Agent Automation](https://github.com/KiranReddyBA/crewai-multi-agent-automation)
-> Practical implementations and exploration built around CrewAI and Python AI frameworks.
-
----
-
-### 📜 Certifications
-* **Building Production Agents with Training and Evaluation**
-* **Multi AI Agent Systems with Crew AI**
-* **AI Python for Beginners**
-* **Databases and SQL for Data Science with Python**
+</div>
 
 ---
 
-📫 **Let's Connect:**
-* **LinkedIn:** [linkedin.com/in/kiran-kumar-reddy-b78774211](https://www.linkedin.com/in/kiran-kumar-reddy-b78774211)
-* **Email:** [kiranbeeravelly07@gmail.com](mailto:kiranbeeravelly07@gmail.com)
+## ⚡ Core Expertise & Technical Capabilities
+
+```mermaid
+graph TD
+    A[Business Requirements & Strategy] --> B(BRD / FRD Artifacts)
+    A --> C(Process Modeling & Workflow Optimization)
+    D[Data Analytics & SQL Frameworks] --> E(ETL Auditing & KPI Tracking)
+    D --> F(Enterprise Data Analytics)
+
+    style A fill:#007ACC,stroke:#fff,color:#fff,stroke-width:2px
+    style D fill:#28a745,stroke:#fff,color:#fff,stroke-width:2px
+    style B fill:#17a2b8,stroke:#fff,color:#fff
+    style C fill:#17a2b8,stroke:#fff,color:#fff
+    style E fill:#ffc107,stroke:#333,color:#000
+    style F fill:#ffc107,stroke:#333,color:#000
