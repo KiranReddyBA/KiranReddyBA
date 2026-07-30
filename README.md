@@ -25,7 +25,7 @@
 
 ## 🎯 About Me
 
-AI/ML Engineer with **4+ years of experience** building and deploying machine learning models, LLM-based chatbots, and enterprise AI agent solutions. Proven expertise in developing AI chatbots that connect to enterprise databases, integrating LLM APIs (OpenAI, Claude) with structured and unstructured data, and building prediction, classification, and clustering models using scikit-learn, pandas, and numpy.
+AI/ML Engineer with **3+ years of experience** building and deploying machine learning models, LLM-based chatbots, and enterprise AI agent solutions. Proven expertise in developing AI chatbots that connect to enterprise databases, integrating LLM APIs (OpenAI, Claude) with structured and unstructured data, and building prediction, classification, and forecasting models using scikit-learn, pandas, and numpy.
 
 - 🔭 Currently working as **AI/ML Engineer (Contract)** at **Capital One**
 - 🎓 **M.S. Computer Science** — Sacred Heart University
