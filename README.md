@@ -13,7 +13,7 @@
   <h3>🤖 AI/ML Engineer | Building Enterprise AI Chatbots & ML Pipelines 🚀</h3>
 
   <p>
-    <b>Atlanta, GA</b> • 
+    <b>USA (Open to Relocate)</b> • 
     <a href="mailto:bkkreddy17@gmail.com">Email</a> • 
     <a href="tel:+17325857199">+1 (732) 585-7199</a> • 
     <a href="https://github.com/KiranReddyBA/enterprise-ai-chatbot">Live Chatbot Demo</a>
