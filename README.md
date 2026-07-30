@@ -104,7 +104,7 @@ AI/ML Engineer with **3+ years of experience** building and deploying machine le
 - [🔗 Live Demo & Source Code](https://github.com/KiranReddyBA/enterprise-ai-chatbot)
 
 ### 2. 📊 Customer Churn Prediction
-> End-to-end ML pipeline on 500K+ records using **Random Forest** and **XGBoost** — 91% accuracy.
+> End-to-end ML pipeline on 500K+ records using **Random Forest** and **XGBoost** — 89% accuracy.
 
 - Feature engineering with SHAP for model interpretability
 - Deployed as **REST API** using FastAPI for real-time churn risk scoring
