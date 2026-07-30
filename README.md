@@ -14,7 +14,7 @@
 
   <p>
     <b>Atlanta, GA</b> • 
-    <a href="mailto:bkkreddy1969@gmail.com">Email</a> • 
+    <a href="mailto:bkkreddy17@gmail.com">Email</a> • 
     <a href="tel:+17325857199">+1 (732) 585-7199</a> • 
     <a href="https://github.com/KiranReddyBA/enterprise-ai-chatbot">Live Chatbot Demo</a>
   </p>
@@ -31,7 +31,7 @@ AI/ML Engineer with **4+ years of experience** building and deploying machine le
 - 🎓 **M.S. Computer Science** — Sacred Heart University
 - 🤝 Open to **full-time AI/ML Engineer roles** (Open to Relocate)
 - 💬 Ask me about **LangChain, RAG pipelines, LLM integration, ML model deployment**
-- 📫 Reach me at **bkkreddy1969@gmail.com**
+- 📫 Reach me at **bkkreddy17@gmail.com**
 
 ---
 
@@ -122,7 +122,7 @@ AI/ML Engineer with **4+ years of experience** building and deploying machine le
 | Role | Company | Period |
 |------|---------|--------|
 | AI/ML Engineer (Contract) | Capital One, USA | Jan 2025 – Present |
-| AI/ML Engineer | TCS, India | Jan 2021 – Jul 2023 |
+| AI/ML Engineer | TCS, India | Jan 2022 – Jul 2023 |
 
 ### Key Achievements
 - 🤖 Deployed LLM-based AI chatbot reducing manual review effort by **40%**
@@ -138,7 +138,6 @@ AI/ML Engineer with **4+ years of experience** building and deploying machine le
 | Education | Institution | Period |
 |-----------|------------|--------|
 | M.S. Computer Science | Sacred Heart University, USA | Aug 2023 – Dec 2024 |
-| B.Tech Computer Science | India | — |
 
 **Certifications:**
 - Google Analytics
@@ -177,7 +176,7 @@ AI/ML Engineer with **4+ years of experience** building and deploying machine le
 
 <h3>💬 Let's Connect</h3>
 
-<a href="mailto:bkkreddy1969@gmail.com"><img src="https://img.shields.io/badge/Email-bkkreddy1969@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="mailto:bkkreddy17@gmail.com"><img src="https://img.shields.io/badge/Email-bkkreddy17@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="tel:+17325857199"><img src="https://img.shields.io/badge/Phone-+1_(732)_585--7199-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 <a href="https://github.com/KiranReddyBA/enterprise-ai-chatbot"><img src="https://img.shields.io/badge/Portfolio-Enterprise_AI_Chatbot-0099B8?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 
